@@ -1,3 +1,3 @@
 #! /bin/python3
 print("Hello World")
-print("PollSCM-Jenkins")
+print("GitHub Webhook")
